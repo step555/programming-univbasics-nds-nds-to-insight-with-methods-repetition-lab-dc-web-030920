@@ -56,7 +56,7 @@ while director_index < names.length do
   director_index += 1
   i += 1
   end
-#   grand_total
+  grand_total
 
 #   list_of_directors(source)
 #   directors_totals(source)
