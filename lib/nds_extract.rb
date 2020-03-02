@@ -57,15 +57,6 @@ while director_index < names.length do
   i += 1
   end
   grand_total
-
-#   list_of_directors(source)
-#   directors_totals(source)
-#   final_index = 0
-#   while final_index < list_of_directors(source).length
-  
-#     final_index += 1
-#   end
-
 end
 # expected: 10355501925
 
